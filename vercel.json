@@ -1,0 +1,12 @@
+{
+  "fluid": true,
+  "regions": [
+    "fra1"
+  ],
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/api/index"
+    }
+  ]
+}
